@@ -1,14 +1,12 @@
-# Rafael de Castro Lacerda
+# Olá, eu sou o Rafael Lacerda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-**Location:** Jundiaí - SP - Brasil 
-
-**Personal Site**: [linkedin](https://linkedin.com/in/rafaeldecastrolacerda)
+**Linkedin**: [meu linkedin](https://linkedin.com/in/rafaeldecastrolacerda)
 
 **E-mail:** ralacerda.castro@gmail.com
 
-## Sobre
+## :man_technologist: Sobre
 
-Desenvolvedor front-end, apaixonado pelo que o HTML, CSS e Javascript podem nos proporcionar.
+Desenvolvedor front-end, apaixonado pelo que o HTML, CSS e Javascript podem nos proporcionar :heart:
 
 ## Experiência
 
@@ -25,14 +23,14 @@ Desenvolvedor front-end, apaixonado pelo que o HTML, CSS e Javascript podem nos 
 > Desenvolvimento em C#, ASP.NET, correções nos sistemas da empresa. Migração de sistemas de Delphi para C#. Criação de Procedures, Triggers, Views em SQL Server e scripts para geração de relatórios. **Tecnologias:** C#, Asp.NET, WebForms, WindowsForms, SQL Server, Oracle.
 
 
-## Tecnologias
+## 💻 Tecnologias
 
 > Javascript, HTML, CSS, ReactJS, React Native, Angular, AngularJS, Mobx, Redux, Typescript, Ionic.
 
-## Tecnologias Secundárias
+## 💻  Tecnologias Secundárias
 
 > NodeJS, Flutter, C#
 
-## Educação
+## :man_student: Educação
 
 **Universidade Paulista - UNIP** - 2011 - 2013
