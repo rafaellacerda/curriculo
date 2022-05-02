@@ -4,11 +4,11 @@
 
 **E-mail:** ralacerda.castro@gmail.com
 
-## :man_technologist: Sobre
+## Sobre :man_technologist:
 
 Desenvolvedor front-end, apaixonado pelo que o HTML, CSS e Javascript podem nos proporcionar :heart:
 
-## Experiência
+## Experiência :rocket:	
 
 **Desenvolvedor Front-End** - Sciensa - Setembro 2020 - Atual
 
@@ -23,14 +23,14 @@ Desenvolvedor front-end, apaixonado pelo que o HTML, CSS e Javascript podem nos 
 > Desenvolvimento em C#, ASP.NET, correções nos sistemas da empresa. Migração de sistemas de Delphi para C#. Criação de Procedures, Triggers, Views em SQL Server e scripts para geração de relatórios. **Tecnologias:** C#, Asp.NET, WebForms, WindowsForms, SQL Server, Oracle.
 
 
-## 💻 Tecnologias
+## Tecnologias 💻 
 
 > Javascript, HTML, CSS, ReactJS, React Native, Angular, AngularJS, Mobx, Redux, Typescript, Ionic.
 
-## 💻  Tecnologias Secundárias
+## Tecnologias Secundárias 💻 
 
 > NodeJS, Flutter, C#
 
-## :man_student: Educação
+## Educação :man_student:
 
 **Universidade Paulista - UNIP** - 2011 - 2013
