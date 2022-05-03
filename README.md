@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael Lacerda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-**Linkedin**: [![Linkedin Badge](https://img.shields.io/badge/-rafaellacerda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafaeldecastrolacerda)](https://linkedin.com/in/rafaeldecastrolacerda) 
+**Linkedin**: [![Linkedin Badge](https://img.shields.io/badge/-rafaellacerda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafaelcastrolacerda)](https://linkedin.com/in/rafaelcastrolacerda) 
 
 **E-mail:** ralacerda.castro@gmail.com
 
